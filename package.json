@@ -1,0 +1,14 @@
+{
+  "name": "kok",
+  "version": "1.0.0",
+  "description": "testsoal",
+  "main": "index.js",
+  "scripts": {
+    "test": "testcafe chrome src/step -e"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "testcafe": "^1.14.2"
+  }
+}
